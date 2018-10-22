@@ -10,5 +10,4 @@ public class ThreadTest2 {
             System.out.print(i + "  ");
         }
 }
-
 }
