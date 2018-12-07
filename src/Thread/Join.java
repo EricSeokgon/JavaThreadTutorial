@@ -3,7 +3,7 @@ package Thread;
 public class Join {
     public static void main(String[] args) {
         Thread t1 = new Thread(Join::print);
-        t1.start();//from  ww  w .j  ava  2  s. c o  m
+        t1.start();
         System.out.println("Done.");
     }
 
