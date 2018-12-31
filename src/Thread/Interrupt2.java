@@ -20,4 +20,5 @@ public class Interrupt2 {
         System.out.println("Counter:" + counter);
 
     }
+
 }
