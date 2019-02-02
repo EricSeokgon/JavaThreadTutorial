@@ -8,4 +8,5 @@ public class AtomicCounter {
     public long next() {
         return value.incrementAndGet();
     }
+
 }
