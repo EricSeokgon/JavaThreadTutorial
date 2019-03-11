@@ -22,5 +22,6 @@ public class Phaser1 {
         System.out.println("#2: isTerminated():" + phaser.isTerminated());
         phaser.forceTermination();
         System.out.println("#3: isTerminated():" + phaser.isTerminated());
+
     }
 }
